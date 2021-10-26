@@ -23,3 +23,8 @@ agbahgaerhskthjkjghkjsdfajglhshsfhgjadfhgyrethfjhsdkahgfaeorhgkdfsnbv;ahfg[erghd
 
 
 this is a new day 
+
+## website development
+1. check content
+2. layout 
+
