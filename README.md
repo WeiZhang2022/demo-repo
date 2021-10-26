@@ -28,3 +28,6 @@ this is a new day
 1. check content
 2. layout 
 
+### Change author info
+1. user name
+2. user email
